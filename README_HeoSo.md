@@ -2,7 +2,7 @@
 
 > **Phân tích chân dung khách hàng và xây dựng mô hình dự báo rời bỏ dịch vụ tiết kiệm số trên ứng dụng MBBank**
 >
-> Dự án thuộc khuôn khổ cuộc thi **FDC 105 – Challenge 3** | Nhóm 5 | 2025
+> Dự án thuộc khuôn khổ khóa học **FTU Datapot Class 105 – Challenge 3** | 2025
 
 ---
 
